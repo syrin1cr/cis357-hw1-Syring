@@ -6,7 +6,7 @@ import java.util.*;
 // Course: CIS357
 // Due date: 7/5/2022
 // Name: Cody Syring
-// GitHub: xxx
+// GitHub: https://github.com/syrin1cr/cis357-hw1-Syring
 // Instructor: Il-Hyung Cho
 // Program description:
 
